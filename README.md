@@ -50,17 +50,19 @@ The OEM dashboard provided insights into database performance, sessions, and sto
 
 <img width="1337" height="644" alt="OEM" src="https://github.com/user-attachments/assets/ed7c6c3e-3afc-4650-92ed-dc1c17d679b4" />
 
-Conclusion
+*Conclusion
 
 Through this assignment, I gained practical skills in Oracle Database 21c pluggable database management. I successfully:
 
 -Created a new pluggable database
+
 -Dropped a pluggable database safely
+
 -Accessed and explored Oracle Enterprise Manager Express
 
 This hands-on exercise helped me understand Oracle Multitenant architecture and database administration concepts more clearly.
 
-References
+*References
 
 -Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
 
