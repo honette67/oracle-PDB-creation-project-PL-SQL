@@ -6,7 +6,7 @@ Student ID: 27707
 
 Instructor: Maniraguha Eric
 
-Task 1: Creating a Pluggable Database
+# Task 1: Creating a Pluggable Database
 
 In this task, I created a new pluggable database (PDB) named ho_pdb_27707. which will help to store all class work
 The creation was done from the root container using the CREATE PLUGGABLE DATABASE command, and I verified the new PDB with the SHOW PDBS command.
@@ -22,7 +22,7 @@ SHOW PDBS;
 
 <img width="650" height="316" alt="PDB creation" src="https://github.com/user-attachments/assets/d9b9b05f-6973-4313-a2c4-e199aa44ac26" />
 
-Task 2:Creation and Deletion of a Pluggable Database
+# Task 2:Creation and Deletion of a Pluggable Database
 
 In this task, I created and then deleted a temporary PDB named ho_to_delete_pdb_27707.
 Before dropping a PDB, Oracle requires that it is closed. After closing it, I dropped the PDB including its datafiles and verified that it was removed.
@@ -41,7 +41,7 @@ DROP PLUGGABLE DATABASE ho_to_delete_pdb_27707 INCLUDING DATAFILES;
 
 <img width="623" height="263" alt="Delete PDB" src="https://github.com/user-attachments/assets/8881e2f0-0b3e-460e-9ace-2fd3481ad770" />
 
-Task 3: Oracle Enterprise Manager (OEM) Express
+# Task 3: Oracle Enterprise Manager (OEM) Express
 
 In this task, I accessed Oracle Enterprise Manager (EM Express) using my browser at:
 https://localhost:5500/em
@@ -50,7 +50,8 @@ The OEM dashboard provided insights into database performance, sessions, and sto
 
 <img width="1337" height="644" alt="OEM" src="https://github.com/user-attachments/assets/ed7c6c3e-3afc-4650-92ed-dc1c17d679b4" />
 
-*Conclusion
+
+# *Conclusion
 
 Through this assignment, I gained practical skills in Oracle Database 21c pluggable database management. I successfully:
 
@@ -62,7 +63,7 @@ Through this assignment, I gained practical skills in Oracle Database 21c plugga
 
 This hands-on exercise helped me understand Oracle Multitenant architecture and database administration concepts more clearly.
 
-*References
+# *References
 
 -Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
 
