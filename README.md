@@ -63,6 +63,7 @@ This hands-on exercise helped me understand Oracle Multitenant architecture and 
 References
 
 -Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
+
 -Class Lecture Notes
 
 
